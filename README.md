@@ -15,6 +15,11 @@
 
 ---
 
+**Currently:** 
+-  Building scalable web applications with React & Node.js
+-  Exploring Next.js features and GraphQL
+-  Improving UI/UX & responsive designs
+
 <h3>When I code, I rely on</h3>
 
 |       Skills Overview        | Technologies                                                                                                                                                                                                                          |
@@ -52,15 +57,16 @@ Full-stack app with React frontend + Node.js/Express backend + MongoDB database
 🔗 Live Preview: https://agronet-client.netlify.app/
 💾 Repo:https://github.com/devsojol/AgroNet-client
 
-### 🔹 **React Dashboard**
-Admin panel + charts + authentication  
-🔗 Live Preview: https://your-project-link  
-💾 Repo: https://github.com/devsojol/react-dashboard
+
+### 🔹 **PET CARE SERVICE WEB**
+Full-stack app with React frontend + using fake json data  
+🔗 Live Preview: https://floofy-pet-care.web.app/
+💾 Repo:https://github.com/devsojol/floofy-pet-care
 
 ### 🔹 **Portfolio Website**
 Responsive portfolio site with modern UI/UX  
-🔗 Live Preview: https://your-portfolio-link  
-💾 Repo: https://github.com/devsojol/portfolio
+🔗 Live Preview: [Coming Soon](#)  
+💾 Repo: [Coming Soon](#)
 
 ---
 
@@ -73,7 +79,7 @@ Responsive portfolio site with modern UI/UX
 
 ---
 
-## 🤝 Connect With Me
+## 📍 Location &🤝 Connect Information
 - 📍 Dhaka, Bangladesh
 - 🌐 Portfolio: https://your-portfolio-link  
 - 💼 LinkedIn: https://linkedin.com/in/khandakersojol
