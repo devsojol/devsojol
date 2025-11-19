@@ -36,8 +36,8 @@
 
 ### 🔹 **MERN E-Commerce**
 Full-stack app with React frontend + Node.js/Express backend + MongoDB database  
-🔗 Live Preview: https://your-project-link  
-💾 Repo: https://github.com/devsojol/mern-ecommerce
+🔗 Live Preview: https://agronet-client.netlify.app/
+💾 Repo:https://github.com/devsojol/AgroNet-client
 
 ### 🔹 **React Dashboard**
 Admin panel + charts + authentication  
@@ -64,11 +64,11 @@ Responsive portfolio site with modern UI/UX
 - 🌐 Portfolio: https://your-portfolio-link  
 - 💼 LinkedIn: https://linkedin.com/in/khandakersojol
 - 📧 Email: dev.khandakersojol@gmail.com
-- 🐦 Twitter: https://twitter.com/yourhandle (optional)  
+- 📘 Facebook: https://www.facebook.com/khandakersojol.dev
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=devsojol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
