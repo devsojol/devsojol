@@ -57,7 +57,7 @@ Admin panel + charts + authentication
 ## 🤝 Connect With Me
 - 🌐 Portfolio: https://your-portfolio-link  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 📧 Email: your@email.com  
+- 📧 Email: dev.khandakersojol@gmail.com
 
 ---
 
