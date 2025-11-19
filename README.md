@@ -72,6 +72,7 @@ Responsive portfolio site with modern UI/UX
 ---
 
 ## 🤝 Connect With Me
+- 📍 Dhaka, Bangladesh
 - 🌐 Portfolio: https://your-portfolio-link  
 - 💼 LinkedIn: https://linkedin.com/in/khandakersojol
 - 📧 Email: dev.khandakersojol@gmail.com
