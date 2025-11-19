@@ -1,19 +1,15 @@
-<!-- Header -->
 <h1 align="center">Hi, I'm Khandaker Sojol 👋</h1>
-<h3 align="center">Frontend Developer (React + Tailwind)</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sojoldev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<h3 align="center">Full-Stack Developer (MERN Stack) | React, Node.js, Express, MongoDB</h3>
 
 ---
 
 ## 🚀 About Me
-- 💻 Passionate **Frontend Developer**  
+- 💻 Passionate **Full-Stack Developer (MERN)**  
 - 🎨 Love building **clean UI, responsive design & smooth UX**  
-- ⚛️ Specializing in **React, JavaScript, Tailwind CSS, DaisyUI**  
-- 📚 Always learning: Next.js, TypeScript  
-- 🎯 Goal: Become a top-level React Developer  
+- ⚛️ Frontend: React, Tailwind CSS, DaisyUI, Bootstrap
+- 🌐 Backend: Node.js, Express.js, MongoDB  
+- 📚 Always learning: Next.js, TypeScript, REST APIs, GraphQL  
+- 🎯 Goal: Build scalable & modern web applications  
 
 ---
 
@@ -21,44 +17,59 @@
 
 ### **Frontend**
 <div>
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,daisyui" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,daisyui,bootstrap" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </div>
 
 ### **Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,thunderclient" />
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **E-Commerce Frontend**
-Responsive modern UI + Product filtering + Cart  
+### 🔹 **MERN E-Commerce**
+Full-stack app with React frontend + Node.js/Express backend + MongoDB database  
 🔗 Live Preview: https://your-project-link  
-💾 Repo: https://github.com/sojoldev/project-name
+💾 Repo: https://github.com/devsojol/mern-ecommerce
 
 ### 🔹 **React Dashboard**
 Admin panel + charts + authentication  
 🔗 Live Preview: https://your-project-link  
-💾 Repo: https://github.com/sojoldev/project-name
+💾 Repo: https://github.com/devsojol/react-dashboard
+
+### 🔹 **Portfolio Website**
+Responsive portfolio site with modern UI/UX  
+🔗 Live Preview: https://your-portfolio-link  
+💾 Repo: https://github.com/devsojol/portfolio
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojoldev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojoldev&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devsojol&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsojol&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 - 🌐 Portfolio: https://your-portfolio-link  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://linkedin.com/in/khandakersojol
 - 📧 Email: dev.khandakersojol@gmail.com
+- 🐦 Twitter: https://twitter.com/yourhandle (optional)  
 
 ---
 
-⭐ **Thanks for visiting!**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devsojol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+⭐ **Thanks for visiting!**
