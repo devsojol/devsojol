@@ -1,3 +1,5 @@
+![Banner](GitHubBanner.png)
+
 <h1 align="center">Hi, I'm Khandaker Sojol 👋</h1>
 <h3 align="center">Full-Stack Developer (MERN Stack) | React, Node.js, Express, MongoDB</h3>
 
